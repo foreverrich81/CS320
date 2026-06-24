@@ -1,8 +1,8 @@
 package test;
 
 import static org.junit.jupiter.api.Assertions.*;    // Imports all JUnit assertion methods
-import org.junit.jupiter.api.Test;                    // Imports the @Test annotation
-import contactService.Contact;                        // Imports the Contact class that is being tested
+import org.junit.jupiter.api.Test;                   // Imports the @Test annotation
+import contactService.Contact;                       // Imports the Contact class that is being tested
 
 class ContactTest {
 
